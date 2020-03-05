@@ -1,0 +1,13 @@
+/Users/marilyn/Projects/PCSynergy/PCSynergy/bin/Debug/netstandard2.0/PCSynergy.deps.json
+/Users/marilyn/Projects/PCSynergy/PCSynergy/bin/Debug/netstandard2.0/PCSynergy.dll
+/Users/marilyn/Projects/PCSynergy/PCSynergy/bin/Debug/netstandard2.0/ref/PCSynergy.dll
+/Users/marilyn/Projects/PCSynergy/PCSynergy/bin/Debug/netstandard2.0/PCSynergy.pdb
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/PCSynergy.csprojAssemblyReference.cache
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/PCSynergy.AssemblyInfoInputs.cache
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/PCSynergy.AssemblyInfo.cs
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/PCSynergy.dll
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/ref/PCSynergy.dll
+/Users/marilyn/Projects/PCSynergy/PCSynergy/obj/Debug/netstandard2.0/PCSynergy.pdb
